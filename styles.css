@@ -1,0 +1,19 @@
+/** {
+border: 1px solid red !important;}*/
+
+/* eliminates header margin on top */
+.bolden {
+  font-weight: 800;
+  font-size: 22px;
+  padding:6px 20px;
+}
+/* responsive video code */
+.embed-container { position: relative; padding-bottom: 47%; height: 0; overflow: hidden; max-width: 100%; height: auto; margin-top: 10px; } .embed-container iframe, .embed-container object, .embed-container embed {position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+.btn{
+  margin-left: 10px;
+}
+
+body {
+  min-height:1000px;
+  margin: 0;
+}
